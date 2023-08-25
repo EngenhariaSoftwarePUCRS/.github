@@ -41,6 +41,10 @@
     -   [Computação Gráfica](https://github.com/EngenhariaSoftwarePUCRS/Computacao_Grafica)
     -   [Fundamentos de Processamento Paralelo e Distribuído](https://github.com/EngenhariaSoftwarePUCRS/Fundamentos_de_Processamento_Paralelo_e_Distribuido)
     -   [Linguagens de Programação](https://github.com/EngenhariaSoftwarePUCRS/Linguagens_de_Programacao)
-    -   [Gerenciamento de Projeto de Software](https://github.com/EngenhariaSoftwarePUCRS/Gerenciamento_de_Projeto_de_Software)
     -   [Processos de Software](https://github.com/EngenhariaSoftwarePUCRS/Processos_de_Software)
     -   [Projeto e Otimização de Algoritmos](https://github.com/EngenhariaSoftwarePUCRS/Projeto_e_Otimizacao_de_Algoritmos)
+    -   [Gerenciamento de Projeto de Software](https://github.com/EngenhariaSoftwarePUCRS/Gerenciamento_de_Projeto_de_Software)
+
+ ## Cronograma Padrão
+
+ ![Cronograma Padrão](https://raw.githubusercontent.com/EngenhariaSoftwarePUCRS/.github/main/Disciplinas/Curriculo98AL2023.png)
