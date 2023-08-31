@@ -82,3 +82,7 @@
  ## Cronograma Padrão
 
  ![Cronograma Padrão](https://raw.githubusercontent.com/EngenhariaSoftwarePUCRS/.github/main/Disciplinas/Curriculo98AL2023.png)
+
+ ## README
+
+[Sobre esta organização](https://github.com/EngenhariaSoftwarePUCRS/.github)
