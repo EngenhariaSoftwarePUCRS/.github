@@ -39,26 +39,28 @@
     -   [Linguagens de Programação](https://github.com/EngenhariaSoftwarePUCRS/Linguagens_de_Programacao)
     -   [Processos de Software](https://github.com/EngenhariaSoftwarePUCRS/Processos_de_Software)
     -   [Projeto e Otimização de Algoritmos](https://github.com/EngenhariaSoftwarePUCRS/Projeto_e_Otimizacao_de_Algoritmos)
-    <!-- -   [Verificação e Validação de Software](https://github.com/EngenhariaSoftwarePUCRS/Verificacao_e_Validacao_de_Software) -->
+    -   [Gerenciamento de Projeto de Software](https://github.com/EngenhariaSoftwarePUCRS/Gerenciamento_de_Projeto_de_Software)
 
 -   ### Quinto Semestre (2024/1)
 
-    <!-- -   [Engenharia de Software Experimental](https://github.com/EngenhariaSoftwarePUCRS/Engenharia_de_Software_Experimental)
-    -   [Experiência do Usuário](https://github.com/EngenhariaSoftwarePUCRS/Experiencia_do_Usuario) -->
-    -   [Gerenciamento de Projeto de Software](https://github.com/EngenhariaSoftwarePUCRS/Gerenciamento_de_Projeto_de_Software)
-<!--
+    -   [Verificação e Validação de Software](https://github.com/EngenhariaSoftwarePUCRS/Verificacao_e_Validacao_de_Software)
+    -   [Engenharia de Software Experimental](https://github.com/EngenhariaSoftwarePUCRS/Engenharia_de_Software_Experimental)
     -   [Inteligência Artificial](https://github.com/EngenhariaSoftwarePUCRS/Inteligencia_Artificial)
     -   [Projeto e Arquitetura de Software](https://github.com/EngenhariaSoftwarePUCRS/Projeto_e_Arquitetura_de_Software)
+    -   [Projeto de Desenvolvimento de Jogos](https://github.com/EngenhariaSoftwarePUCRS/Projeto_de_Desenvolvimento_de_Jogos)
     -   [Sistemas Operacionais](https://github.com/EngenhariaSoftwarePUCRS/Sistemas_Operacionais)
+    -   [Filosofia e Ética Geral](https://github.com/EngenhariaSoftwarePUCRS/Filosofia_e_Etica_Geral)
+    -   [Sistemas de Planejamento e Custos para Engenharia](https://github.com/EngenhariaSoftwarePUCRS/Sistemas_de_Planejamento_e_Custos_para_Engenharia)
+
+<!--
 
 -   ### Sexto Semestre (2024/2)
 
+    -   [Experiência do Usuário](https://github.com/EngenhariaSoftwarePUCRS/Experiencia_do_Usuario)
     -   [Construção de Software](https://github.com/EngenhariaSoftwarePUCRS/Construcao_de_Software)
-    -   [Ética e Cidadania](https://github.com/EngenhariaSoftwarePUCRS/Etica_e_Cidadania)
     -   [Fundamentos de Redes de Computadores](https://github.com/EngenhariaSoftwarePUCRS/Fundamentos_de_Redes_de_Computadores)
     -   [Infraestrutura para Gestão de Dados](https://github.com/EngenhariaSoftwarePUCRS/Infraestrutura_para_Gestao_de_Dados)
     -   [Laboratório de Redes de Computadores](https://github.com/EngenhariaSoftwarePUCRS/Laboratorio_de_Redes_de_Computadores)
-    -   [Sistemas de Planejamento de Custos para Engenharia](https://github.com/EngenhariaSoftwarePUCRS/Sistemas_de_Planejamento_de_Custos_para_Engenharia)
 
 -   ### Sétimo Semestre (2025/1)
 
