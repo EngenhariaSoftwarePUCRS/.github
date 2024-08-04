@@ -52,15 +52,16 @@
     -   [Filosofia e Ética Geral](https://github.com/EngenhariaSoftwarePUCRS/Filosofia_e_Etica_Geral)
     -   [Sistemas de Planejamento e Custos para Engenharia](https://github.com/EngenhariaSoftwarePUCRS/Sistemas_de_Planejamento_e_Custos_para_Engenharia)
 
-<!--
-
 -   ### Sexto Semestre (2024/2)
 
     -   [Experiência do Usuário](https://github.com/EngenhariaSoftwarePUCRS/Experiencia_do_Usuario)
     -   [Construção de Software](https://github.com/EngenhariaSoftwarePUCRS/Construcao_de_Software)
     -   [Fundamentos de Redes de Computadores](https://github.com/EngenhariaSoftwarePUCRS/Fundamentos_de_Redes_de_Computadores)
     -   [Infraestrutura para Gestão de Dados](https://github.com/EngenhariaSoftwarePUCRS/Infraestrutura_para_Gestao_de_Dados)
+    -   [Laboratório De Games E Narrativas Gráficas](https://github.com/EngenhariaSoftwarePUCRS/Laboratorio_de_Games_e_Narrativas_Graficas)
     -   [Laboratório de Redes de Computadores](https://github.com/EngenhariaSoftwarePUCRS/Laboratorio_de_Redes_de_Computadores)
+
+<!--
 
 -   ### Sétimo Semestre (2025/1)
 
@@ -81,11 +82,11 @@
 
 -->
 
- ## Cronograma Padrão
+## Cronograma Padrão
 
- ![Cronograma Padrão](https://raw.githubusercontent.com/EngenhariaSoftwarePUCRS/.github/main/Disciplinas/Curriculo98AL2023.png)
+![Cronograma Padrão](https://raw.githubusercontent.com/EngenhariaSoftwarePUCRS/.github/main/Disciplinas/Curriculo98AL2023.png)
 
- ## README
+## README
 
 [Sobre esta organização](https://github.com/EngenhariaSoftwarePUCRS/.github)
 
