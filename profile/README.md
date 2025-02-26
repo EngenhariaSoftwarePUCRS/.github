@@ -61,9 +61,11 @@
     -   [Laboratório De Games E Narrativas Gráficas](https://github.com/EngenhariaSoftwarePUCRS/Laboratorio_de_Games_e_Narrativas_Graficas)
     -   [Laboratório de Redes de Computadores](https://github.com/EngenhariaSoftwarePUCRS/Laboratorio_de_Redes_de_Computadores)
 
+-   ### Sétimo Semestre (2025/1)
+    -   Neste semestre estarei realizando o programa de [Mobilidade Acadêmica](https://www.pucrs.br/internacional/mobilidade-academica/) da PUCRS, portanto commitarei os materiais equivalentes ao meu trabalho na [University of Bonn](https://www.uni-bonn.de/en/studying/international-students/exchange-students/global-exchange-program).
 <!--
 
--   ### Sétimo Semestre (2025/1)
+-   ### Oitavo Semestre (2025/2)
 
     -   [Prática na Agência Experimental III (120 horas)](https://github.com/EngenhariaSoftwarePUCRS/AGES_III)
     -   [Engenharia Econômica](https://github.com/EngenhariaSoftwarePUCRS/Engenharia_Economica)
@@ -72,7 +74,7 @@
     -   [Psicologia e Gestão de Pessoas em TI](https://github.com/EngenhariaSoftwarePUCRS/Psicologia_e_Gestao_de_Pessoas_em_TI)
     -   [Simulação e Métodos Analíticos](https://github.com/EngenhariaSoftwarePUCRS/Simulacao_e_Metodos_Analiticos)
 
--   ### Oitavo Semestre (2025/2)
+-   ### Nono Semestre (2026/1)
 
     -   [Prática na Agência Experimental IV (120 horas)](https://github.com/EngenhariaSoftwarePUCRS/AGES_IV)
     -   [Engenharia e Gestão do Conhecimento](https://github.com/EngenhariaSoftwarePUCRS/Engenharia_e_Gestao_do_Conhecimento)
