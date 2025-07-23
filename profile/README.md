@@ -62,26 +62,27 @@
     -   [Laboratório de Redes de Computadores](https://github.com/EngenhariaSoftwarePUCRS/Laboratorio_de_Redes_de_Computadores)
 
 -   ### Sétimo Semestre (2025/1)
-    -   Neste semestre estarei realizando o programa de [Mobilidade Acadêmica](https://www.pucrs.br/internacional/mobilidade-academica/) da PUCRS, portanto commitarei os materiais equivalentes ao meu trabalho na [University of Bonn](https://www.uni-bonn.de/en/studying/international-students/exchange-students/global-exchange-program).
-<!--
+    -   Neste semestre realizei o programa de [Mobilidade Acadêmica](https://www.pucrs.br/internacional/mobilidade-academica/) da PUCRS na [University of Bonn](https://www.uni-bonn.de/en/studying/international-students/exchange-students/global-exchange-program).
+<!-- Portanto commitei os materiais equivalentes ao meu trabalho -->
 
 -   ### Oitavo Semestre (2025/2)
 
     -   [Prática na Agência Experimental III (120 horas)](https://github.com/EngenhariaSoftwarePUCRS/AGES_III)
     -   [Engenharia Econômica](https://github.com/EngenhariaSoftwarePUCRS/Engenharia_Economica)
-    -   [Infraestrutura de Tecnologia da Informação](https://github.com/EngenhariaSoftwarePUCRS/Infraestrutura_de_TI)
-    -   [Métodos Formais para Computação](https://github.com/EngenhariaSoftwarePUCRS/Metodos_Formais_para_Computacao)
-    -   [Psicologia e Gestão de Pessoas em TI](https://github.com/EngenhariaSoftwarePUCRS/Psicologia_e_Gestao_de_Pessoas_em_TI)
-    -   [Simulação e Métodos Analíticos](https://github.com/EngenhariaSoftwarePUCRS/Simulacao_e_Metodos_Analiticos)
-
--   ### Nono Semestre (2026/1)
-
-    -   [Prática na Agência Experimental IV (120 horas)](https://github.com/EngenhariaSoftwarePUCRS/AGES_IV)
     -   [Engenharia e Gestão do Conhecimento](https://github.com/EngenhariaSoftwarePUCRS/Engenharia_e_Gestao_do_Conhecimento)
     -   [Humanismo e Cultura Religiosa](https://github.com/EngenhariaSoftwarePUCRS/Humanismo_e_Cultura_Religiosa)
+    -   [Infraestrutura de Tecnologia da Informação](https://github.com/EngenhariaSoftwarePUCRS/Infraestrutura_de_Tecnologia_da_Informacao)
     -   [Melhoria de Processos de Software](https://github.com/EngenhariaSoftwarePUCRS/Melhoria_de_Processos_de_Software)
-    -   [Segurança de Sistemas](https://github.com/EngenhariaSoftwarePUCRS/Seguranca_de_Sistemas)
+    -   [Psicologia e Gestão de Pessoas em TI](https://github.com/EngenhariaSoftwarePUCRS/Psicologia_e_Gestao_de_Pessoas_em_TI)
 
+<!--
+-   ### Nono Semestre (2026/1)
+        
+    -   [Prática na Agência Experimental IV (120 horas)](https://github.com/EngenhariaSoftwarePUCRS/AGES_IV)
+    -   [Computer Animation](https://github.com/EngenhariaSoftwarePUCRS/Computer_Animation)
+    -   [Métodos Formais para Computação](https://github.com/EngenhariaSoftwarePUCRS/Metodos_Formais_para_Computacao)
+    -   [Segurança de Sistemas](https://github.com/EngenhariaSoftwarePUCRS/Seguranca_de_Sistemas)
+    -   [Simulação e Métodos Analíticos](https://github.com/EngenhariaSoftwarePUCRS/Simulacao_e_Metodos_Analiticos)
 -->
 
 ## Cronograma Padrão
