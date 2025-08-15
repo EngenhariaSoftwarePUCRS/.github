@@ -71,8 +71,7 @@
     -   [Engenharia Econômica](https://github.com/EngenhariaSoftwarePUCRS/Engenharia_Economica)
     -   [Engenharia e Gestão do Conhecimento](https://github.com/EngenhariaSoftwarePUCRS/Engenharia_e_Gestao_do_Conhecimento)
     -   [Humanismo e Cultura Religiosa](https://github.com/EngenhariaSoftwarePUCRS/Humanismo_e_Cultura_Religiosa)
-    -   [Infraestrutura de Tecnologia da Informação](https://github.com/EngenhariaSoftwarePUCRS/Infraestrutura_de_Tecnologia_da_Informacao)
-    -   [Melhoria de Processos de Software](https://github.com/EngenhariaSoftwarePUCRS/Melhoria_de_Processos_de_Software)
+    -   [Métodos Formais para Computação](https://github.com/EngenhariaSoftwarePUCRS/Metodos_Formais_para_Computacao)
     -   [Psicologia e Gestão de Pessoas em TI](https://github.com/EngenhariaSoftwarePUCRS/Psicologia_e_Gestao_de_Pessoas_em_TI)
 
 <!--
@@ -80,7 +79,8 @@
         
     -   [Prática na Agência Experimental IV (120 horas)](https://github.com/EngenhariaSoftwarePUCRS/AGES_IV)
     -   [Computer Animation](https://github.com/EngenhariaSoftwarePUCRS/Computer_Animation)
-    -   [Métodos Formais para Computação](https://github.com/EngenhariaSoftwarePUCRS/Metodos_Formais_para_Computacao)
+    -   [Infraestrutura de Tecnologia da Informação](https://github.com/EngenhariaSoftwarePUCRS/Infraestrutura_de_Tecnologia_da_Informacao)
+    -   [Melhoria de Processos de Software](https://github.com/EngenhariaSoftwarePUCRS/Melhoria_de_Processos_de_Software)
     -   [Segurança de Sistemas](https://github.com/EngenhariaSoftwarePUCRS/Seguranca_de_Sistemas)
     -   [Simulação e Métodos Analíticos](https://github.com/EngenhariaSoftwarePUCRS/Simulacao_e_Metodos_Analiticos)
 -->
@@ -123,3 +123,4 @@ Se você encontrar alguma das situações acima, por favor, entre em contato com
     <a href="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/README.de.md" target="_blank"><img height="17" src="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/flags/de.svg" alt="de" />German (Deutsch)</a> | 
     <a href="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/README.es.md" target="_blank"><img height="17" src="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/flags/es.svg" alt="es" />Spanish (Español)</a>
 </div>
+
