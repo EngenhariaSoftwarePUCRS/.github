@@ -63,6 +63,7 @@
 
 -   ### Sétimo Semestre (2025/1)
     -   Neste semestre realizei o programa de [Mobilidade Acadêmica](https://www.pucrs.br/internacional/mobilidade-academica/) da PUCRS na [University of Bonn](https://www.uni-bonn.de/en/studying/international-students/exchange-students/global-exchange-program).
+<!--    - [Computer Animation](https://github.com/EngenhariaSoftwarePUCRS/Computer_Animation) -->
 <!-- Portanto commitei os materiais equivalentes ao meu trabalho -->
 
 -   ### Oitavo Semestre (2025/2)
@@ -77,7 +78,7 @@
 -   ### Nono Semestre (2026/1)
         
     -   [Prática na Agência Experimental IV (120 horas)](https://github.com/EngenhariaSoftwarePUCRS/AGES_IV)
-    -   [Computer Animation](https://github.com/EngenhariaSoftwarePUCRS/Computer_Animation)
+    -   [Animação Computadorizada](https://github.com/EngenhariaSoftwarePUCRS/Animacao_Computadorizada)
     -   [Infraestrutura de Tecnologia da Informação](https://github.com/EngenhariaSoftwarePUCRS/Infraestrutura_de_Tecnologia_da_Informacao)
     -   [Melhoria de Processos de Software](https://github.com/EngenhariaSoftwarePUCRS/Melhoria_de_Processos_de_Software)
     -   [Segurança de Sistemas](https://github.com/EngenhariaSoftwarePUCRS/Seguranca_de_Sistemas)
@@ -121,5 +122,6 @@ Se você encontrar alguma das situações acima, por favor, entre em contato com
     <a href="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/README.de.md" target="_blank"><img height="17" src="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/flags/de.svg" alt="de" />German (Deutsch)</a> | 
     <a href="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/README.es.md" target="_blank"><img height="17" src="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/flags/es.svg" alt="es" />Spanish (Español)</a>
 </div>
+
 
 
