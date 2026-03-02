@@ -74,7 +74,6 @@
     -   [Métodos Formais para Computação](https://github.com/EngenhariaSoftwarePUCRS/Metodos_Formais_para_Computacao)
     -   [Psicologia e Gestão de Pessoas em TI](https://github.com/EngenhariaSoftwarePUCRS/Psicologia_e_Gestao_de_Pessoas_em_TI)
 
-<!--
 -   ### Nono Semestre (2026/1)
         
     -   [Prática na Agência Experimental IV (120 horas)](https://github.com/EngenhariaSoftwarePUCRS/AGES_IV)
@@ -83,7 +82,6 @@
     -   [Melhoria de Processos de Software](https://github.com/EngenhariaSoftwarePUCRS/Melhoria_de_Processos_de_Software)
     -   [Segurança de Sistemas](https://github.com/EngenhariaSoftwarePUCRS/Seguranca_de_Sistemas)
     -   [Simulação e Métodos Analíticos](https://github.com/EngenhariaSoftwarePUCRS/Simulacao_e_Metodos_Analiticos)
--->
 
 ## Cronograma Padrão
 
@@ -123,4 +121,5 @@ Se você encontrar alguma das situações acima, por favor, entre em contato com
     <a href="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/README.de.md" target="_blank"><img height="17" src="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/flags/de.svg" alt="de" />German (Deutsch)</a> | 
     <a href="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/README.es.md" target="_blank"><img height="17" src="https://github.com/EngenhariaSoftwarePUCRS/.github/blob/main/lang/flags/es.svg" alt="es" />Spanish (Español)</a>
 </div>
+
 
